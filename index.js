@@ -30,7 +30,6 @@ var options = {
     100
 };
 
-console.log(options.types);
 
 (function(options) {
   try {
